@@ -1,0 +1,18 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DatasetTag">Dataset</MDI>
+    <MDI key="DataType">Generic</MDI>
+    <MDI key="ParentRasterType">Raster Dataset</MDI>
+    <MDI key="ParentTemplate">Default</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>kampala_pop_2</Description>
+    <NoDataValue>2.55000000000000E+02</NoDataValue>
+    <Metadata>
+      <MDI key="RepresentationType">ATHEMATIC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
