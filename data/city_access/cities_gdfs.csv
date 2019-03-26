@@ -1,0 +1,16 @@
+city,which,file_name,gdf
+Ulaan Baatar,0,UB,"    bbox_east  bbox_north  bbox_south   bbox_west  \
+0  107.578164   48.257157   47.635288  106.356383   
+
+                                            geometry             place_name  
+0  POLYGON ((106.356383 48.257157, 106.376367 48....  Ulaanbaatar, Mongolia  "
+Montevideo,0,Montevideo,"   bbox_east  bbox_north  bbox_south  bbox_west  \
+0 -56.022501  -34.701853  -34.938056   -56.4314   
+
+                                            geometry           place_name  
+0  POLYGON ((-56.4313997 -34.8281077, -56.4313789...  Montevideo, Uruguay  "
+"Lima, Peru",0,Lima,"   bbox_east  bbox_north  bbox_south  bbox_west  \
+0 -77.001777  -12.030871   -12.07985 -77.088455   
+
+                                            geometry  place_name  
+0  POLYGON ((-77.08845549999999 -12.0588313, -77....  Lima, Peru  "
